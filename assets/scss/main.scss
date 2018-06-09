@@ -1,0 +1,12 @@
+@import 'grid';
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300,500,700');
+
+@import 'typography';
+
+// Variable
+$Sunflower: 'Sunflower', serif; 
+$SourceSans: 'Source Sans Pro',sans-serif;
+
+body{
+    background: blue; 
+}
