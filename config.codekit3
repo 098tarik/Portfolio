@@ -9,53 +9,46 @@
 	],
 "creatorBuild": "26680",
 "files": {
-	"\/Portfolio\/.gitattributes": {
+	"\/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Portfolio\/.gitattributes",
+		"oAP": "\/.gitattributes",
 		"oF": 0
 		},
-	"\/Portfolio\/assets\/download.png": {
+	"\/assets\/download.png": {
 		"ft": 32768,
 		"iS": 6385,
 		"oA": 0,
-		"oAP": "\/Portfolio\/assets\/download.png",
+		"oAP": "\/assets\/download.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"\/Portfolio\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/_typography.scssc": {
+	"\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/_typography.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 1,
-		"oAP": "\/Portfolio\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/_typography.scssc",
+		"oAP": "\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/_typography.scssc",
 		"oF": 0
 		},
-	"\/Portfolio\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/grid.scssc": {
+	"\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/grid.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Portfolio\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/grid.scssc",
+		"oAP": "\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/grid.scssc",
 		"oF": 0
 		},
-	"\/Portfolio\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/main.scssc": {
+	"\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/main.scssc": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Portfolio\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/main.scssc",
+		"oAP": "\/assets\/scss\/.sass-cache\/2ca5737d94dbb4f259e1a7cec688baf3cd12d262\/main.scssc",
 		"oF": 0
 		},
-	"\/Portfolio\/assets\/scss\/_typography": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 1,
-		"oAP": "\/Portfolio\/assets\/scss\/_typography",
-		"oF": 0
-		},
-	"\/Portfolio\/assets\/scss\/_typography.scss": {
+	"\/assets\/scss\/.sass-cache\/_grid.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -63,12 +56,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/Portfolio\/assets\/scss\/_typography.css",
+		"oAP": "\/assets\/scss\/.sass-cache\/_grid.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/Portfolio\/assets\/scss\/grid.scss": {
+	"\/assets\/scss\/_reset.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -76,49 +69,62 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "\/Portfolio\/assets\/scss\/grid.css",
+		"oAP": "\/assets\/scss\/_reset.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"\/Portfolio\/assets\/scss\/main.css": {
+	"\/assets\/scss\/_typography.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 1,
+		"oAP": "\/assets\/scss\/_typography.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
+	"\/assets\/scss\/main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "\/Portfolio\/assets\/scss\/main-min.css",
+		"oAP": "\/assets\/scss\/main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"\/Portfolio\/assets\/scss\/main.css.map": {
+	"\/assets\/scss\/main.css.map": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Portfolio\/assets\/scss\/main.css.map",
+		"oAP": "\/assets\/scss\/main.css.map",
 		"oF": 0
 		},
-	"\/Portfolio\/assets\/scss\/main.scss": {
+	"\/assets\/scss\/main.scss": {
 		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
-		"ma": 1,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "\/Portfolio\/assets\/scss\/main.css",
+		"oAP": "\/assets\/scss\/main.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 0
+		"uL": 1
 		},
-	"\/Portfolio\/index.html": {
+	"\/index.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "\/Portfolio\/index.html",
+		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/Portfolio\/README.md": {
+	"\/README.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -127,7 +133,7 @@
 		"eSQ": 1,
 		"ft": 4096,
 		"oA": 0,
-		"oAP": "\/Portfolio\/README.html",
+		"oAP": "\/README.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -143,7 +149,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 550260866,
-	"displayValue": "portfolio",
+	"displayValue": "Portfolio",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-lotr",
 	"iconImageWasSetByUser": 0
